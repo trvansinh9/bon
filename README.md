@@ -47,7 +47,7 @@
 
 <!-- #region overview -->
 
-# Overview
+# Overview.
 
 `bon` is a Rust crate for generating compile-time-checked builders for structs and functions. It also provides idiomatic partial application with optional and named parameters for functions and methods.
 
